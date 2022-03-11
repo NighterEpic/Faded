@@ -1,0 +1,6 @@
+game.StarterGui:SetCore("SendNotification", {
+        Title = "Faded";
+        Text = "Faded is having a 10-15 downtime, please be patient";
+        Icon = "rbxassetid://6130118019";
+        Duration = 4;
+    })

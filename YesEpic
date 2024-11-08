@@ -1,12 +1,7 @@
 game.StarterGui:SetCore("SendNotification", {
-		Title = "Faded";
-		Text = "Copied To Clipboard";
-		Icon = "rbxassetid://6130118019";
-		Duration = 4;
-	})
-game.StarterGui:SetCore("SendNotification", {
-		Title = "Faded";
-		Text = "Faded is patched rn";
-		Icon = "rbxassetid://6130118019";
-		Duration = 4;
-	})
+   Title = "Faded";
+   Text = "Faded is patched rn, join the discord";
+   Icon = "rbxassetid://6130118019";
+   Duration = 4;
+})
+setclipboard('https://discord.gg/PKsRykYzJW')
